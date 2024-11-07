@@ -1,0 +1,328 @@
+CRITICAL - 2024-09-23 20:13:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "usuario/login.php"
+[Method: GET, Route: login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/login.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('usuario/login', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(11): view('usuario/login')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+CRITICAL - 2024-09-23 20:14:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "usuario/login.php"
+[Method: GET, Route: login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/login.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('usuario/login', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(11): view('usuario/login')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+CRITICAL - 2024-09-23 20:15:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "usuario/login.php"
+[Method: GET, Route: loginuser]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/login.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('usuario/login', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(11): view('usuario/login')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+CRITICAL - 2024-09-23 20:15:51 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "usuario/login.php"
+[Method: GET, Route: loginuser]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/login.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('usuario/login', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(11): view('usuario/login')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+CRITICAL - 2024-09-23 20:15:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "usuario/login.php"
+[Method: GET, Route: loginuser]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/login.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('usuario/login', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(11): view('usuario/login')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+CRITICAL - 2024-09-23 20:15:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "usuario/login.php"
+[Method: GET, Route: loginuser]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/login.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('usuario/login', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(11): view('usuario/login')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+CRITICAL - 2024-09-23 20:17:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login.php"
+[Method: GET, Route: login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(11): view('login')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+CRITICAL - 2024-09-23 20:17:42 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login.php"
+[Method: GET, Route: login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(11): view('login')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+INFO - 2024-09-23 20:20:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-23 20:20:48 --> BadMethodCallException: Call to undefined method App\Models\UsuarioM::valida
+[Method: POST, Route: usuario/acceder]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Usuarios.php(23): CodeIgniter\Model->__call('valida', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->acceder()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+INFO - 2024-09-23 20:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-09-23 20:24:24 --> mysqli_sql_exception: Unknown column 'tipo' in 'field list' in C:\xampp\htdocs\PanaderiaWeb\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\PanaderiaWeb\system\Database\MySQLi\Connection.php(312): mysqli->query('select nombre, ...', 0)
+#1 C:\xampp\htdocs\PanaderiaWeb\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select nombre, ...')
+#2 C:\xampp\htdocs\PanaderiaWeb\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select nombre, ...')
+#3 C:\xampp\htdocs\PanaderiaWeb\app\Models\UsuarioM.php(49): CodeIgniter\Database\BaseConnection->query('select nombre, ...')
+#4 C:\xampp\htdocs\PanaderiaWeb\app\Controllers\Usuarios.php(23): App\Models\UsuarioM->valida('juan', '1234', 'hola')
+#5 C:\xampp\htdocs\PanaderiaWeb\system\CodeIgniter.php(933): App\Controllers\Usuarios->acceder()
+#6 C:\xampp\htdocs\PanaderiaWeb\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\PanaderiaWeb\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\PanaderiaWeb\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\PanaderiaWeb\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\PanaderiaWeb\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 C:\xampp\htdocs\PanaderiaWeb\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2024-09-23 20:24:24 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tipo' in 'field list'
+[Method: POST, Route: usuario/acceder]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\UsuarioM.php(49): CodeIgniter\Database\BaseConnection->query('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'')
+ 2 APPPATH\Controllers\Usuarios.php(23): App\Models\UsuarioM->valida('juan', '1234', 'hola')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->acceder()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+CRITICAL - 2024-09-23 20:24:24 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tipo' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'')
+ 3 APPPATH\Models\UsuarioM.php(49): CodeIgniter\Database\BaseConnection->query('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'')
+ 4 APPPATH\Controllers\Usuarios.php(23): App\Models\UsuarioM->valida('juan', '1234', 'hola')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->acceder()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+CRITICAL - 2024-09-23 20:24:24 --> [Caused by] mysqli_sql_exception: Unknown column 'tipo' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'')
+ 4 APPPATH\Models\UsuarioM.php(49): CodeIgniter\Database\BaseConnection->query('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'')
+ 5 APPPATH\Controllers\Usuarios.php(23): App\Models\UsuarioM->valida('juan', '1234', 'hola')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->acceder()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+INFO - 2024-09-23 20:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-09-23 20:27:04 --> mysqli_sql_exception: Unknown column 'tipo' in 'field list' in C:\xampp\htdocs\PanaderiaWeb\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\PanaderiaWeb\system\Database\MySQLi\Connection.php(312): mysqli->query('select nombre, ...', 0)
+#1 C:\xampp\htdocs\PanaderiaWeb\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select nombre, ...')
+#2 C:\xampp\htdocs\PanaderiaWeb\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select nombre, ...')
+#3 C:\xampp\htdocs\PanaderiaWeb\app\Models\UsuarioM.php(49): CodeIgniter\Database\BaseConnection->query('select nombre, ...')
+#4 C:\xampp\htdocs\PanaderiaWeb\app\Controllers\Usuarios.php(23): App\Models\UsuarioM->valida('juan', '1234', 'hola')
+#5 C:\xampp\htdocs\PanaderiaWeb\system\CodeIgniter.php(933): App\Controllers\Usuarios->acceder()
+#6 C:\xampp\htdocs\PanaderiaWeb\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\PanaderiaWeb\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\PanaderiaWeb\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\PanaderiaWeb\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\PanaderiaWeb\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 C:\xampp\htdocs\PanaderiaWeb\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2024-09-23 20:27:04 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tipo' in 'field list'
+[Method: POST, Route: usuario/acceder]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\UsuarioM.php(49): CodeIgniter\Database\BaseConnection->query('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'')
+ 2 APPPATH\Controllers\Usuarios.php(23): App\Models\UsuarioM->valida('juan', '1234', 'hola')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->acceder()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+CRITICAL - 2024-09-23 20:27:04 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tipo' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'')
+ 3 APPPATH\Models\UsuarioM.php(49): CodeIgniter\Database\BaseConnection->query('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'')
+ 4 APPPATH\Controllers\Usuarios.php(23): App\Models\UsuarioM->valida('juan', '1234', 'hola')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->acceder()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+CRITICAL - 2024-09-23 20:27:04 --> [Caused by] mysqli_sql_exception: Unknown column 'tipo' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'')
+ 4 APPPATH\Models\UsuarioM.php(49): CodeIgniter\Database\BaseConnection->query('select nombre, tipo
+        from usuario 
+        where nombre = \'juan\' and password =\'1234\' and correo =\'hola\'')
+ 5 APPPATH\Controllers\Usuarios.php(23): App\Models\UsuarioM->valida('juan', '1234', 'hola')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->acceder()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+INFO - 2024-09-23 20:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-23 20:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-23 20:30:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-23 20:33:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-23 20:42:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-23 20:42:39 --> TypeError: App\Controllers\categorias::index(): Return value must be of type string, CodeIgniter\HTTP\RedirectResponse returned
+[Method: GET, Route: categorias]
+in APPPATH\Controllers\Categorias.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+INFO - 2024-09-23 20:43:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-23 20:43:05 --> TypeError: App\Controllers\categorias::index(): Return value must be of type string, CodeIgniter\HTTP\RedirectResponse returned
+[Method: GET, Route: categorias]
+in APPPATH\Controllers\Categorias.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+INFO - 2024-09-23 20:43:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-23 20:43:07 --> TypeError: App\Controllers\categorias::index(): Return value must be of type string, CodeIgniter\HTTP\RedirectResponse returned
+[Method: GET, Route: categorias]
+in APPPATH\Controllers\Categorias.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+INFO - 2024-09-23 20:44:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-23 20:44:09 --> TypeError: App\Controllers\categorias::index(): Return value must be of type string, CodeIgniter\HTTP\RedirectResponse returned
+[Method: GET, Route: categorias]
+in APPPATH\Controllers\Categorias.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+INFO - 2024-09-23 20:47:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-23 20:47:34 --> TypeError: App\Controllers\categorias::index(): Return value must be of type string, CodeIgniter\HTTP\RedirectResponse returned
+[Method: GET, Route: categorias]
+in APPPATH\Controllers\Categorias.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+INFO - 2024-09-23 20:47:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-09-23 20:47:44 --> TypeError: App\Controllers\categorias::index(): Return value must be of type string, CodeIgniter\HTTP\RedirectResponse returned
+[Method: GET, Route: categorias]
+in APPPATH\Controllers\Categorias.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\categorias->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\categorias))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')

@@ -1,0 +1,33 @@
+CRITICAL - 2024-10-03 05:54:17 --> Error: Call to a member function findAll() on null
+[Method: GET, Route: login]
+in APPPATH\Controllers\Usuarios.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+CRITICAL - 2024-10-03 05:55:38 --> Error: Call to a member function findAll() on null
+[Method: GET, Route: login]
+in APPPATH\Controllers\Usuarios.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
+CRITICAL - 2024-10-03 05:55:58 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "usuarios/show.php"
+[Method: GET, Route: login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuarios/show.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('usuarios/show', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(18): view('usuarios/show')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PanaderiaWeb\\public\\index.php')
